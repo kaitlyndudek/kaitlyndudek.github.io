@@ -1,5 +1,32 @@
 h1 {
     text-align: center;
-    background-color: green;
-    color: red
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px red;
+    font-family: Monaco;
+  }
+
+h3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px green;
+    font-family: brush script M7;
+  }
+
+  h3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px green;
+    font-family: Monaco;
+    font-weight: bold;
+  }
+
+p {
+    text-align: left;
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px green;
+    font-family: Monaco;
   }
